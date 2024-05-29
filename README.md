@@ -29,7 +29,7 @@ Development Plan on a Weekly Basis:
 
 Week 1:
    - Set up Azure environment for project deployment.✔️
-   - Implement feature: User Registration with Google OAuth 2.0.
+   - Implement feature: User Registration with Google OAuth 2.0.✔️
    - Write unit tests for User Registration functionality.
    - Create initial README.md file with project description and getting started documentation.✔️
    - Develop architecture diagram for project documentation.
